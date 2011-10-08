@@ -1,0 +1,6 @@
+Programme Python illustrant le billet http://www.opikanoba.org/python/couchdb
+
+Utilisation des bibliothèques logging, json et urllib2.
+
+License LGPL
+http://www.gnu.org/licenses/lgpl.html
